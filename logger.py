@@ -20,7 +20,7 @@ class GroupInfo(TypedDict):
 
 __all__ = ["log_state", "log_event"]
 
-_FPS = 60
+_FPS = 59
 _MAX_SECONDS = 16
 _SPRITE_SAMPLE_LIMIT = 10  # Maximum number of sprites to log per group
 
